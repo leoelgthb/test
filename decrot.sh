@@ -1,5 +1,6 @@
 #!/bin/sh
 # decrot.sh
+# decrypt rot13
 
 ROTNUM=13
 
