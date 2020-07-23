@@ -1,3 +1,6 @@
+#!/bin/sh
+# decrot.sh
+
 ROTNUM=13
 
 declare -a KEYSTR=()
